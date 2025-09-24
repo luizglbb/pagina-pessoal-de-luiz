@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Pessoa de Luiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+    <center> <h1>Luiz Gabriel Leandro Barbosa</h1> </center>
+    <p> Estudante de Licenciatura em Letras e Análise e Desenvolvimento de Sistemas, com experiência e reconhecimento na área de escrita (premiação acadêmica).</p>
+    <ul>
+      <li>Jogar lol</li>
+      <li>Ouvir música</li>
+      <li>Ler</li>  
+    </ul>
+    <a> <img src="https://th.bing.com/th/id/R.91479e9b6f0df00a54ea8760e59a63fe?rik=ZGD7vuJWOjwL%2fQ&pid=ImgRaw&r=0" width=15%>  </a> 
+
+<h2><a href="https://www.taylorswift.com/" target="_blank"> <br> site da taylor swift </a></h2>
+</body>
+</html>
